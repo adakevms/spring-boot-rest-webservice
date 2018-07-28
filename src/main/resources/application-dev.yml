@@ -1,0 +1,4 @@
+webservice:
+  scheme: https
+  host: my.fake.com
+  port: 4321

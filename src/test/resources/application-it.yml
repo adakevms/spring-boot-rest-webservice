@@ -1,0 +1,14 @@
+logging:
+  level: 
+    org:
+      springframework: error
+      
+my:
+  property:
+    value: Kevin
+
+webservice:
+  scheme: https
+  host: my.fake.com
+  port: 4321
+

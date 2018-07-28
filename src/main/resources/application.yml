@@ -1,0 +1,9 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: loggers, env
+
+webservice:
+  fetchEndpoint: /fetchSomething
+  updateEndpoint: /updateSomething
